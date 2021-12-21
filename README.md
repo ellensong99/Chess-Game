@@ -1,1 +1,2 @@
 # Chess Game
+Chess is a board game, played on a board of 64 squares. There are two players, one is in control of white pieces, aka the white player and the other is in control of black pieces, aka the black player. There are six kinds of pieces in total: King, Queen, Bishop, Rook, Knight and Pawn. Players take turn to move and the goal is to trap the enemy king so that it cannot avoid being captured.
